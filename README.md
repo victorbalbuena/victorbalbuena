@@ -1,9 +1,8 @@
 ### Hi there 👋
-
-- Mi nombre es Victor Balbuena y soy desarrollador Frontend 💻
-- Tengo más de 2 años de experiencia 🕒
-- Me titulé de Ingeniero en Sistemas Computacionales en el año 2021 📅
-- Me gustan las tecnologías Frontend y mi framework favorito en Angular 🧑‍💻
+- Hello I'm Victor Balbuena and I'm a WEB Developer 💻
+- I have extensive experience in quality software development 🕒
+- Graduated from Computer Systems Engineering in 2021 📅
+- My favorite frontend framework is Angular 🧑‍💻
 
 <!--
 **victorbalbuena/victorbalbuena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
